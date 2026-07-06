@@ -1,0 +1,44 @@
+version: '3.8'
+
+services:
+  db:
+    image: postgres:15-alpine
+    container_name: stocksense_db
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: stocksense
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  backend:
+    build: ./backend
+    container_name: stocksense_backend
+    restart: always
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://postgres:postgres@db:5432/stocksense
+      - JWT_SECRET=supersecretkey1234567890!
+      - GEMINI_API_KEY=
+      - GCP_BUCKET_NAME=
+      - GOOGLE_APPLICATION_CREDENTIALS=
+    depends_on:
+      - db
+    volumes:
+      - ./backend/data:/app/data
+
+  frontend:
+    build: ./frontend
+    container_name: stocksense_frontend
+    restart: always
+    ports:
+      - "80:80"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:

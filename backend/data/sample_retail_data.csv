@@ -1,0 +1,278 @@
+sku,product_name,category,supplier,price,current_stock,reorder_level,warehouse,sale_date,quantity,revenue
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-07,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-07,16,72.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-07,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-07,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-07,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-08,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-08,39,175.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-08,7,279.93
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-08,6,899.94
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-08,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-09,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-09,31,139.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-09,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-09,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-09,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-10,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-10,57,256.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-10,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-10,6,899.94
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-10,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-11,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-11,12,54.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-11,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-11,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-11,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-12,41,184.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-12,2,79.98
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-12,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-12,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-13,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-13,23,103.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-13,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-13,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-13,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-14,22,99.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-14,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-14,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-14,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-15,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-15,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-15,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-15,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-15,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-16,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-16,33,148.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-16,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-16,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-16,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-17,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-17,31,139.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-17,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-17,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-17,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-18,21,94.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-18,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-18,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-18,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-19,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-19,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-19,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-19,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-20,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-20,23,103.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-20,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-20,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-20,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-21,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-21,13,58.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-21,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-21,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-21,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-22,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-22,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-22,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-22,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-22,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-23,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-23,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-23,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-23,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-24,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-24,69,310.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-24,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-24,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-24,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-25,22,99.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-25,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-25,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-25,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-26,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-26,27,121.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-26,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-26,4,599.96
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-26,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-27,23,103.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-27,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-27,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-27,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-28,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-28,2,79.98
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-28,2,299.98
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-29,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-29,39,175.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-29,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-29,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-29,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-30,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-30,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-30,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-30,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-30,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-05-31,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-05-31,28,126.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-05-31,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-05-31,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-05-31,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-01,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-01,32,144.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-01,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-01,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-01,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-02,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-02,14,63.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-02,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-02,2,299.98
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-03,28,126.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-03,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-03,4,599.96
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-03,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-04,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-04,25,112.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-04,9,359.91
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-04,2,299.98
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-05,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-05,20,90.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-05,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-05,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-05,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-06,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-06,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-06,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-06,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-07,21,94.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-07,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-07,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-07,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-08,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-08,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-08,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-08,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-09,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-09,12,54.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-09,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-09,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-09,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-10,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-10,25,112.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-10,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-10,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-10,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-11,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-11,23,103.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-11,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-11,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-11,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-12,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-12,25,112.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-12,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-12,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-12,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-13,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-13,36,162.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-13,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-13,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-13,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-14,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-14,32,144.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-14,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-14,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-14,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-15,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-15,22,99.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-15,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-15,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-15,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-16,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-16,16,72.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-16,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-16,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-16,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-17,23,103.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-17,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-17,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-17,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-18,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-18,20,90.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-18,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-18,2,299.98
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-19,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-19,31,139.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-19,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-19,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-19,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-20,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-20,31,139.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-20,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-20,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-20,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-21,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-21,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-21,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-21,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-21,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-22,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-22,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-22,1,149.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-23,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-23,21,94.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-23,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-23,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-23,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-24,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-24,27,121.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-24,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-24,2,299.98
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-25,16,72.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-25,3,119.97
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-25,2,299.98
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-26,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-26,28,126.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-26,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-26,3,449.97
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-26,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-27,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-27,27,121.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-27,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-27,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-27,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-28,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-28,39,175.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-28,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-28,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-28,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-06-29,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-29,22,99.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-29,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-29,1,149.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-06-30,20,90.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-06-30,7,279.93
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-06-30,1,149.99
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-06-30,1,29.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-01,25,112.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-01,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-01,1,149.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-07-02,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-02,24,108.0
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-02,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-02,1,149.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-07-03,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-03,25,112.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-03,5,199.95
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-03,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-07-03,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-07-04,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-04,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-04,6,239.94
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-04,2,299.98
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-07-04,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-07-05,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-05,29,130.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-05,7,279.93
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-05,6,899.94
+BEAU-CREAM-005,Anti-Aging Face Cream,Beauty,Aura Essentials,29.99,250,20,WH-NORTH,2026-07-05,1,29.99
+ELEC-TV-001,Smart LED TV,Electronics,Nexus Electronics,499.99,8,10,WH-NORTH,2026-07-06,1,499.99
+GROC-MILK-002,Organic Almond Milk,Groceries,Green Fields Agro,4.5,120,40,WH-WEST,2026-07-06,17,76.5
+APP-JEANS-003,Men's Slim Fit Jeans,Apparels,Stitch & Loom,39.99,14,30,WH-SOUTH,2026-07-06,4,159.96
+HOME-CHAIR-004,Ergonomic Office Chair,Home Goods,Apex Comforts,149.99,42,15,WH-EAST,2026-07-06,2,299.98
